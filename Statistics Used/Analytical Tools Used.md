@@ -2,7 +2,7 @@ Right now:
 - linear regression
 - correlation
 - covariance
--chi square distribution
+- chi square distribution
 
 things we can use:
 - sampling
