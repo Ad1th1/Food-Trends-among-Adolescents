@@ -1,6 +1,11 @@
 These notes are just a list of the topics I learnt in class 11 and 12 under the subject of statistics.
 The pdf of the textbook(Karnataka Board Class 11 and 12 Textbook) is provided in parts here: https://www.selfstudys.com/books/karnataka/state-books/class-11th/statistics
 
+Notes:
+> - representative units of a population is called a sample
+> - numerically measurable characteristics are called quantitative characteristics
+
+
 Chapterwise discussion:
 
 - Class 11:
