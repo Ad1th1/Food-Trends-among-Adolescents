@@ -40,3 +40,10 @@ Chapterwise discussion:
     
 - Class 12:
 > - C5: Bernoulli, Binomial, Poisson, Hypergeometric, Normal, SNV, CHisquare, Student T
+> 
+> - C6: Statistical Inference -> check this out
+>
+
+
+
+
