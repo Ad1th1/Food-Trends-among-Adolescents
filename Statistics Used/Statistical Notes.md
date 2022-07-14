@@ -35,7 +35,7 @@ Chapterwise discussion:
 > 
 > - C8: Interpolttion and extrapolation, 
 >         
-> - C9: Probability, independent and dependent events
+
     
     
 - Class 12:
